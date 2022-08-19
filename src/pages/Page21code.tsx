@@ -1,6 +1,7 @@
 import { Rocket } from "phosphor-react";
 import { Day1 } from "../components/Day1";
 import { Day2 } from "../components/Day2";
+import { Day3 } from "../components/Day3";
 
 export function Page21code(){
   return(
@@ -11,6 +12,7 @@ export function Page21code(){
       </h1>
       <Day1 />
       <Day2 />
+      <Day3 />
     </div>
   )
 }
