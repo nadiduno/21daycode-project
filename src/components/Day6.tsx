@@ -12,7 +12,8 @@ export function Day6(){
           <Rocket />
         </span>
       </div>
-      <div className="w-32 h-32 pt-1 rounded-full bg-gradient-to-t from-violet-800 opacity-20 -rotate-180">
+      <div className="w-32 h-32 pt-1 rounded-full bg-gradient-to-t 
+                    from-violet-800 opacity-20 -rotate-180">
         <span className="text-9xl flex justify-center opacity-25" >
           <Rocket />
         </span>
