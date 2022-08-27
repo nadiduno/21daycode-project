@@ -27,7 +27,7 @@ export function Day7(){
             <ThumbsDown />
           </button>
         </div>
-        
+
         </div>
     </div>
   )
