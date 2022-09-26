@@ -12,7 +12,7 @@ export function Form(){
        
         <div className="max-w-[640px]">
           <img
-          src="/src/assets/Baby.png" 
+          src="https://github.com/nadiduno/21daycode-project/blob/main/src/assets/Baby.png?raw=true" 
           className="mt-10 w-64"
           alt="Foto de criança com computador" />
         </div>
