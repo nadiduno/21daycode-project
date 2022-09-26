@@ -1,10 +1,9 @@
-import { Page21code } from "./pages/Page21code"
-
+import { Pagemain } from "./pages/Pagemain"
 
 export function App() {
 
   return (
-    <Page21code />
+    <Pagemain />
   )
 }
 
